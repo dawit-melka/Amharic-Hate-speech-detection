@@ -1,0 +1,1 @@
+# Amharic-Hate-speech-detection
